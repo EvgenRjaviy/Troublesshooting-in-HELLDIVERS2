@@ -1,1 +1,4 @@
 # Troublesshooting-in-HELLDIVERS2
+I'm running the game on an AMD Ryzen 5 5500U processor with integrated Radeon Graphics. The game starts, but if you start the mission, it crashes. When I launched it for the first time, it took off after the introductory video, when the training started. I did the training on another PC, thinking that the problem was with incorrect graphics settings. But it didn't bring results.
+The error message is only in the Issue and Stability Log. It says that the problematic event is called BEX64 in helldivers2.exe .
+I tried to change the graphics settings, restore the integrity of the game, reinstall, and clean the cache programmatically and manually of games, video cards, and steam. Disabled Windows protection. When trying to grant Users permission to write to the game folder, a message appeared that the integrity of the files was violated. I tried to run it through DX11, but the game crashes at startup. I tried reinstalling the driver.
